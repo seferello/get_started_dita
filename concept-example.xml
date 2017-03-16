@@ -8,10 +8,10 @@
   PUBLIC '-//OASIS//DTD DITA Concept//EN'
   'dtd1.2/technicalContent/dtd/concept.dtd'>
 
-<concept id="sample_concept" xml:lang="en-US">
-  <author>Your name</author>
-  <title>My Abstract</title>
-  <shortdesc>My Abstract</shortdesc>
+<concept id="proposal_concept" xml:lang="en-US">
+  <author>Samantha Ferello</author>
+  <title>Proposal Generation</title>
+  <shortdesc>This concept discusses tried and true methods for creating a comprehensive bid or proposal response to a government contract RFP or RFI</shortdesc>
   <conbody>
     <p>First paragraph</p>
     <p>Second paragraph</p>
