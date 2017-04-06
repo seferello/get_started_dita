@@ -66,6 +66,9 @@
           </substep>
         </substeps>
       </step>
+      <step>
+        <cmd>Identify sections of the RFP and assign them to your team members for content input</cmd>
+      </step>
     </steps>
   </taskbody>
   <related-links>
