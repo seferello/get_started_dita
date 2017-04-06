@@ -7,17 +7,15 @@
      applicable licenses.-->
 <!-- (C) Copyright IBM Corporation 2001, 2005. All Rights Reserved.
  *-->
-<task id="changeoil" xml:lang="en-us">
-  <title>Changing the oil in your car</title>
-  <shortdesc>Once every 6000 kilometers or three months, change the oil in
-your car.</shortdesc>
+<task id="proptemplate" product="proposalresponse" xml:lang="en-us">
+  <title>Creating Your Proposal Template</title>
+  <shortdesc>a step-by-step guide to moving RFP content into a workable Word response</shortdesc>
   <taskbody>
     <context>
-      <p>Changing the oil regularly 
-will help keep the engine in good condition. </p>
+      <p>Breaking down your RFP will help you form your response. Always follow RFP explicit structure rules first, and default to RFP internal structure when no rule applies. </p>
     </context>
     <steps>
-      <stepsection>To change the oil:</stepsection>
+      <stepsection>To break down your RFP or RFI:</stepsection>
       <step>
         <cmd>Remove the old oil filter.</cmd>
       </step>
@@ -35,6 +33,23 @@ will help keep the engine in good condition. </p>
       </step>
       <step>
         <cmd>Top up the windshield washer fluid.</cmd>
+      </step>
+      <stepsection>To build your response template</stepsection>
+      <step>
+        <cmd>Create a cover page and include all information requested in the RFP</cmd>
+        <substeps>
+          <substep>
+            <cmd>Typical information includes: Title, RFP Number, Government Contact, Vendor
+              Contact</cmd>
+          </substep>
+          <substep>
+            <cmd/>
+          </substep>
+        </substeps>
+      </step>
+        
+      <step>
+        <cmd></cmd>
       </step>
     </steps>
   </taskbody>
