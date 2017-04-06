@@ -7,34 +7,67 @@
      applicable licenses.-->
 <!-- (C) Copyright IBM Corporation 2001, 2005. All Rights Reserved.
  *-->
-<task id="changeoil" xml:lang="en-us">
-  <title>Changing the oil in your car</title>
-  <shortdesc>Once every 6000 kilometers or three months, change the oil in
-your car.</shortdesc>
+<task id="proptemplate" product="proposalresponse" xml:lang="en-us">
+  <title>Creating Your Proposal Template</title>
+  <shortdesc>a step-by-step guide to moving RFP content into a workable Word response</shortdesc>
   <taskbody>
     <context>
-      <p>Changing the oil regularly 
-will help keep the engine in good condition. </p>
+      <p>Breaking down your RFP will help you form your response. Always follow RFP explicit structure rules first, and default to RFP internal structure when no rule applies. </p>
     </context>
     <steps>
-      <stepsection>To change the oil:</stepsection>
+      <stepsection>To break down your RFP or RFI:</stepsection>
       <step>
-        <cmd>Remove the old oil filter.</cmd>
+        <cmd>Identify submittal requirements</cmd>
       </step>
       <step>
-        <cmd>Drain the old oil.</cmd>
+        <cmd>Identify compliance guidelines</cmd>
       </step>
       <step>
-        <cmd>Install a new oil filter and gasket.</cmd>
+        <cmd>Identify requirement questions for response</cmd>
       </step>
       <step>
-        <cmd>Add new oil to the engine.</cmd>
+        <cmd>Identify styling and formatting requirements</cmd>
       </step>
       <step>
-        <cmd>Check the air filter and replace or clean it.</cmd>
+        <cmd>Identify and save all evaluation criteria</cmd>
+        <stepresult>Once done, you have all the pieces needed to create a compliant, responsive proposal response skeleton.</stepresult>
+      </step>
+     
+      <stepsection>To build your response template</stepsection>
+      <step>
+        <cmd>Create a cover page and include all information requested in the RFP submittal requirements</cmd>
+        <substeps>
+          <substep>
+            <cmd>Typical information includes: Title, RFP Number, Government Contact, Vendor
+              Contact</cmd>
+          </substep>
+          <substep>
+            <cmd/>
+          </substep>
+        </substeps>
+      </step>
+        
+      <step>
+        <cmd> Using the format of the original RFP, paste in any and all requirements to which the
+          vendor will respond. </cmd>
       </step>
       <step>
-        <cmd>Top up the windshield washer fluid.</cmd>
+        <cmd>Using the styling and formatting requirements, create a style guide in Word to keep
+          your document consistent. </cmd>
+        <substeps>
+          <substep>
+            <cmd>You can also use their formatting rules and the text of their RFP to begin creating
+              your Wall of Truth. Please refer to the Wall of Truth page for more information on how
+              to use this tool.</cmd>
+            <stepresult>By mimicking the style of the RFP itself, the vendor is more likely to
+              complete a compliant proposal. A rule of thumb in proposal management is "give them
+              back their own words." That is, when in doubt, use the wording or style of the RFP in
+              your response. </stepresult>
+          </substep>
+        </substeps>
+      </step>
+      <step>
+        <cmd>Identify sections of the RFP and assign them to your team members for content input</cmd>
       </step>
     </steps>
   </taskbody>
